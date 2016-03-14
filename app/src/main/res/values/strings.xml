@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PEI_APP</string>
+    <string name="google_maps_key">AIzaSyADfVSQ318DdkUdCaSz9ouB5WYifnVTBxU</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
